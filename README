@@ -1,0 +1,5 @@
+A simple tictactoe implementation. Build instructions are shown below.
+
+gcc -Wall decider.c tictactoe.c -o play
+./play
+ 
